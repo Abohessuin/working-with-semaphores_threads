@@ -1,0 +1,140 @@
+(c1)(mohamed) arrived
+(c20)(bosbos) arrived
+(c19)(bosy) arrived
+connection 1:c1 Occupied
+
+connection 2:c20 Occupied
+
+(c18)(volvo) arrived
+connection 3:c19 Occupied
+
+connection 2:c20 performs online activity 
+
+connection 1:c1 performs online activity 
+
+(c17)(besheer) arrived
+connection 4:c18 Occupied
+
+connection 3:c19 performs online activity 
+
+(c16)(galy) arrived and waiting
+connection 5:c17 Occupied
+
+connection 4:c18 performs online activity 
+
+(c10)(nena) arrived and waiting
+connection 5:c17 performs online activity 
+
+(c13)(magda) arrived and waiting
+(c15)(roma) arrived and waiting
+(c11)(nahed) arrived and waiting
+(c14)(nola) arrived and waiting
+(c7)(abeer) arrived and waiting
+(c12)(hoda) arrived and waiting
+(c9)(osam) arrived and waiting
+(c8)(gala) arrived and waiting
+(c2)(ahmed) arrived and waiting
+(c6)(kamel) arrived and waiting
+(c5)(farah) arrived and waiting
+(c3)(mona) arrived and waiting
+(c4)(may) arrived and waiting
+connection 4:c18 Logged out 
+
+connection 4:c16 Occupied
+
+connection 4:c16 performs online activity 
+
+connection 3:c19 Logged out 
+
+connection 3:c10 Occupied
+
+connection 3:c10 performs online activity 
+
+connection 4:c16 Logged out 
+
+connection 4:c13 Occupied
+
+connection 4:c13 performs online activity 
+
+connection 1:c1 Logged out 
+
+connection 1:c15 Occupied
+
+connection 1:c15 performs online activity 
+
+connection 4:c13 Logged out 
+
+connection 4:c11 Occupied
+
+connection 4:c11 performs online activity 
+
+connection 5:c17 Logged out 
+
+connection 5:c14 Occupied
+
+connection 5:c14 performs online activity 
+
+connection 2:c20 Logged out 
+
+connection 2:c7 Occupied
+
+connection 2:c7 performs online activity 
+
+connection 4:c11 Logged out 
+
+connection 4:c12 Occupied
+
+connection 4:c12 performs online activity 
+
+connection 4:c12 Logged out 
+
+connection 4:c9 Occupied
+
+connection 4:c9 performs online activity 
+
+connection 3:c10 Logged out 
+
+connection 3:c8 Occupied
+
+connection 3:c8 performs online activity 
+
+connection 2:c7 Logged out 
+
+connection 2:c2 Occupied
+
+connection 2:c2 performs online activity 
+
+connection 5:c14 Logged out 
+
+connection 5:c6 Occupied
+
+connection 5:c6 performs online activity 
+
+connection 4:c9 Logged out 
+
+connection 4:c5 Occupied
+
+connection 4:c5 performs online activity 
+
+connection 1:c15 Logged out 
+
+connection 1:c3 Occupied
+
+connection 1:c3 performs online activity 
+
+connection 2:c2 Logged out 
+
+connection 2:c4 Occupied
+
+connection 2:c4 performs online activity 
+
+connection 3:c8 Logged out 
+
+connection 5:c6 Logged out 
+
+connection 1:c3 Logged out 
+
+connection 2:c4 Logged out 
+
+connection 4:c5 Logged out 
+
